@@ -1,5 +1,6 @@
 # ignore video files
 asset/*
+!asset/.gitkeep
 
 # OS
 .DS_Store
