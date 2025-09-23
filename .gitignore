@@ -1,0 +1,14 @@
+# ignore video files
+asset/*
+
+# OS
+.DS_Store
+
+# environment
+.venv/
+
+# python cache
+__pycache__/
+
+# trained model
+*.pt
